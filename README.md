@@ -1,2 +1,5 @@
 # hello-world
-Just another repositiry
+
+Hi world!
+
+My name is Damjan, I am new here and I like food. A lot.
